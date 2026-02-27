@@ -13,7 +13,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-df=pd.read_csv(r"final_alcohol.csv")
+df=pd.read_csv("final_alcohol.csv")
 df
 
 df.head(2)
